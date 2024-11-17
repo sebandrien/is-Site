@@ -1,4 +1,4 @@
-# IS-Site README
+# Illustrious Steel Site
 
 ## Project Overview
 
